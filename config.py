@@ -90,9 +90,9 @@ TELEGRAM_VIDEO_URL = "https://telegra.ph/file/af884ec917a11aa0e5dac.jpg"
 STREAM_IMG_URL = "https://telegra.ph/file/af884ec917a11aa0e5dac.jpg"
 SOUNCLOUD_IMG_URL = "https://telegra.ph/file/af884ec917a11aa0e5dac.jpg"
 YOUTUBE_IMG_URL = "https://telegra.ph/file/2f5ae3b72d02b0bfb1855.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://te.legra.ph/file/37d163a2f75e0d3b403d6.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://te.legra.ph/file/b35fd1dfca73b950b1b05.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/file/2f5ae3b72d02b0bfb1855.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://telegra.ph/file/af884ec917a11aa0e5dac.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://telegra.ph/file/af884ec917a11aa0e5dac.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/file/af884ec917a11aa0e5dac.jpg"
 
 
 def time_to_seconds(time):
